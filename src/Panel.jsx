@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo, useState } from "react";
+import React, { useState } from "react";
 import plusIcon from "/assets/images/icon-plus.svg";
 import minusIcon from "/assets/images/icon-minus.svg";
 
